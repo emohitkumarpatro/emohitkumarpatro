@@ -91,9 +91,9 @@ Achieved:
 ## 📫 Connect With Me
 📧 **Email:** e.mohit.patro@gmail.com  
 📱 **Phone:** +91 9861393191  
-🔗 **Portfolio:** e.mohit.patro.com  
-💼 **LinkedIn:** linkedin.com/in/your-profile  
-🐙 **GitHub:** github.com/your-profile  
+🔗 **Portfolio:** [e.mohit.patro.com](https://my-portfolio-emohitkumarpatros-projects.vercel.app/)  
+💼 **LinkedIn:** [linkedin.com/in/emohitkumarpatro](https://www.linkedin.com/in/e-mohit-kumar-patro-0223701b8/)  
+🐙 **GitHub:** [github.com/emohitkumarpatro](https://github.com/emohitkumarpatro) 
 
 ---
 
@@ -122,53 +122,3 @@ With deep experience in **LLM engineering**, **backend architecture**, and **clo
 
 ---
 
-## 🧑‍💼 About Me (Quick Sidebar)
-<table>
-<tr>
-<td width="50%">
-
-### 🌟 Summary
-- Full-Stack AI Engineer with **3+ years experience**
-- Specialized in **Generative AI, RAG, Multi-Agent Automation**
-- Experienced in **cloud-native development & scalable backend systems**
-- Passionate about building **AI-native automation platforms**
-
-### 🎯 Strengths
-- LLM Engineering (OpenAI, HF, LangChain)
-- Distributed systems & microservices
-- Cloud (GCP, Azure), DevOps (K8s, Docker)
-- Intelligent workflow automation (Airflow, n8n)
-
-</td>
-<td width="50%" align="center">
-
-### 📌 Custom Name Banner
-<img src="https://svg-banners.vercel.app/api?type=typeWriter&text=E%20Mohit%20Kumar%20Patro&width=800&height=120" />
-
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Project Cards
-<p align="center">
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Smart-DB&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Doc-QA&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Document-AI&theme=tokyonight&hide_border=true" />
-</a>
-
-</p>
-
----
-
-### 🎨 Final Touch
-Everything is now fully optimized for a **premium GitHub profile** with strong recruiter impact, modern visuals, and powerful AI keywords.
