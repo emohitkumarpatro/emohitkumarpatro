@@ -108,17 +108,3 @@ With deep experience in **LLM engineering**, **backend architecture**, and **clo
 ---
 
 
----
-
-## 📊 GitHub Stats & Contribution Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emohitkumarpatro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emohitkumarpatro&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emohitkumarpatro&theme=react-dark&hide_border=true" />
-</p>
-
----
-
