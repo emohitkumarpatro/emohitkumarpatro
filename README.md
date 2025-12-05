@@ -63,9 +63,9 @@ Achieved:
 ## 📫 Connect With Me
 📧 **Email:** e.mohit.patro@gmail.com  
 📱 **Phone:** +91 9861393191  
-🔗 **Portfolio:** e.mohit.patro.com  
-💼 **LinkedIn:** linkedin.com/in/your-profile  
-🐙 **GitHub:** github.com/your-profile  
+🔗 **Portfolio:** [e.mohit.patro.com  ](https://my-portfolio-emohitkumarpatros-projects.vercel.app/)
+💼 **LinkedIn:** [linkedin.com/in/emohitkumarpatro  ](https://www.linkedin.com/in/e-mohit-kumar-patro-0223701b8/)
+🐙 **GitHub:** [github.com/emohitkumarpatro](https://github.com/emohitkumarpatro)
 
 ---
 
