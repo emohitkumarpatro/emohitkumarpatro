@@ -106,3 +106,69 @@ With deep experience in **LLM engineering**, **backend architecture**, and **clo
 - Exploring workflow automation across cloud-native environments  
 
 ---
+
+
+---
+
+## 📊 GitHub Stats & Contribution Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emohitkumarpatro&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emohitkumarpatro&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emohitkumarpatro&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🧑‍💼 About Me (Quick Sidebar)
+<table>
+<tr>
+<td width="50%">
+
+### 🌟 Summary
+- Full-Stack AI Engineer with **3+ years experience**
+- Specialized in **Generative AI, RAG, Multi-Agent Automation**
+- Experienced in **cloud-native development & scalable backend systems**
+- Passionate about building **AI-native automation platforms**
+
+### 🎯 Strengths
+- LLM Engineering (OpenAI, HF, LangChain)
+- Distributed systems & microservices
+- Cloud (GCP, Azure), DevOps (K8s, Docker)
+- Intelligent workflow automation (Airflow, n8n)
+
+</td>
+<td width="50%" align="center">
+
+### 📌 Custom Name Banner
+<img src="https://svg-banners.vercel.app/api?type=typeWriter&text=E%20Mohit%20Kumar%20Patro&width=800&height=120" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Project Cards
+<p align="center">
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Smart-DB&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Doc-QA&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=emohitkumarpatro&repo=Document-AI&theme=tokyonight&hide_border=true" />
+</a>
+
+</p>
+
+---
+
+### 🎨 Final Touch
+Everything is now fully optimized for a **premium GitHub profile** with strong recruiter impact, modern visuals, and powerful AI keywords.
